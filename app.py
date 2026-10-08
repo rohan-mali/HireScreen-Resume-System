@@ -97,9 +97,9 @@ def pred(input_resume):
 
 # Streamlit app layout
 def main():
-    st.set_page_config(page_title="Resume Category Prediction", page_icon="📄", layout="wide")
+    st.set_page_config(page_title="HireScreen Resume System", page_icon="📄", layout="wide")
 
-    st.title("Resume Category Prediction App")
+    st.title(" HireScreen Resume System")
     st.markdown("Upload a resume in PDF, TXT, or DOCX format and get the predicted job category.")
 
     # File upload section
