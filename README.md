@@ -34,7 +34,7 @@ Recruiters receive **thousands of resumes** for every job opening. Manually read
 ## Project Structure
 
 ```
-resume-screening-tool/
+resume-screening-system/
 ├── app.py                              # Streamlit web app (UI + prediction)
 ├── Resume_Screening_with_Python.ipynb  # Training notebook (EDA → model → save)
 ├── ResumeDataSet.csv                   # Labeled resume dataset (962 resumes, 25 categories)
